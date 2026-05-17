@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-💻 Junior Developer (C# & Web)
+💻 Junior Developer 
 
 🎨 Interested in UI/UX & Design Systems
 
 
 **📌Currently** 
 
-- Building web apps
-- Learning APIs & backend basics
-- Exploring how design connects with code
+- Building a UX portfolio with case studies
+- Turning Daily UI challenges into working interfaces
+- Studying Computer Science
 
 **🛠 Tech** 
 
